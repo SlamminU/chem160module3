@@ -1,0 +1,19 @@
+Module 3 files
+The respository should start out containing the following files (these will be edited by you during module):
+drawgrid.py
+drawgridlib.py
+dla.py
+diffuse.py
+metropolis.py
+
+Before uploading the completed module to your GitHub account, it should contain the following additional (or completed) files:
+whiles.py
+hailstone.py
+list2d.py
+neighbors2d.py
+neighbors3d.py
+drawgrid.py
+pbc.py
+dla.py
+diffuse.py
+metropolis.py
